@@ -1,9 +1,10 @@
 #include<iostream>
 using namespace std;
 int main(){
-    string H ;
-    cin>>H;
-    cout<<H;
+    int a,b;
+    cin>>a>>b ;
+cout<<"the product is: "<<a*b ;
+
     
     return 0 ;
 
